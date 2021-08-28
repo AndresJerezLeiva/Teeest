@@ -1,0 +1,7 @@
+¿Cómo cambiarías tu solución si cada archivo pesara 10 GB?
+
+Una posible solución sería aplicar el principio de "Divide y vencerás", en donde se buscaría dividir los archivos en unidades más pequeñas, con el objetivo de hacer uso de múltiples procesadores.
+
+Una segunda posible solución sería cambiando el método para la lectura de archivos, en donde se lean los datos de tal manera en que se puedan aprovechar la mayor cantidad de núcleos posibles, en donde, por ejemplo, se podría utilizar la librería de multiprocessing.
+
+
